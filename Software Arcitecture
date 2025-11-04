@@ -1,0 +1,17 @@
+Software Architecture
+
+1. One-Tier
+2. Two-Tier
+3. Three-Tier
+4. N-Tier
+
+Tier: Server: Layer
+
+Server: The server serves the services to the end users.
+
+1. web server
+2. app server
+3. DB server
+
+
+  
