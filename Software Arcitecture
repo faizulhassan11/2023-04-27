@@ -13,5 +13,44 @@ Server: The server serves the services to the end users.
 2. app server
 3. DB server
 
+1. Web Server:
+It is also called the presentation layer.
+to show the application.
+who works: ui/ux developers, frontend developers,
+what they use: web technologies.
+ex: html, css, js ....
+
+2. App Server:
+It is also called the logic layer.
+to use the application.
+who works: backend developers,
+what they use: programming languages, frameworks.
+ex: Java, PHP, Python....
+
+3. DB Server:
+It is also called the DB layer.
+to store & retrieve data.
+who works: DB admins,
+what they use: DB languages.
+ex: sql, oracle, postgres, arango ....
+
+1. One-Tier: Standalone Application
+The app will work on a local laptop.
+All layers will be on locally.
+It will not require an internet connection.
+ex: VLC media player ...
+
+2. Two-Tier: Client-Server Application
+The app will work on a local laptop.
+local: presentation, logic.  DB: internet
+It will require an internet connection.
+ex: Banking applications ...
+
+3. Three-Tier: Web Application (RealTime)
+Application does not need to be on local.
+Everything we can use from the internet.
+ex: WhatsApp, YouTube, Instagram...
+
+
 
   
